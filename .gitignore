@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+*.p
